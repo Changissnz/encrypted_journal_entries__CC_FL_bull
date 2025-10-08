@@ -14,3 +14,4 @@ this is the info that's not worth staying private
 - Key 3:
    * `file5.txt`  
    * `file6.txt`
+   * `file7.txt`
